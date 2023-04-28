@@ -1,5 +1,5 @@
 # Facial_Recognition
-This is a Face Recognition Project developed using OpenCV Module in Python. This display a blue rectangle frame around faces.
+This is a face recognition project developed using OpenCV Module in Python. This display a blue rectangle frame around faces.
 
 
 Before you start:
