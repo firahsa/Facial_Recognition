@@ -12,7 +12,7 @@ Open commands prompt and use the following command to install the required modul
   pip install opencv-python
 
 
-How to run
+How to run:
 Open a terminal in the folder where your script is installed and run the following command:
   python main.py
 
